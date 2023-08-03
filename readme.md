@@ -20,7 +20,7 @@
 
 ## Overview
 
-NewJeans Bias Game is an entertaining web-based application that lets users discover their ultimate bias, a term popular in K-pop fandoms for their favorite idol or celebrity. With a simple and interactive interface, players can input their names and perform a "gacha" to reveal their special bias from a collection of stunning idol images.
+NewJeans Bias Game is an entertaining web-based application that lets users discover their ultimate bias, a term popular in K-pop fandoms for their favorite idol or celebrity. With a simple and interactive interface, players can input their names to reveal their special bias from a collection of stunning idol images.
 
 ## Live Demo
 
