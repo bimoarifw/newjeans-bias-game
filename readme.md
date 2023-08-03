@@ -24,7 +24,7 @@ NewJeans Bias Game is an entertaining web-based application that lets users disc
 
 ## Live Demo
 
-Visit the live demo of this game at [here](https://bimoarifw.my.id/game/newjeansbias/en).
+Visit the live demo of this game at [here](https://bimoarifw.my.id/game/newjeans-bias/en/).
 
 ## Credits
 
